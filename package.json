@@ -1,0 +1,14 @@
+{
+  "name": "shhhhhh-discord",
+  "version": "0.1.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Frano Stanisic",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
